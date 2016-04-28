@@ -1,0 +1,6 @@
+/app/config/parameters.yml
+/var/
+!/var/cache/.gitkeep
+!/var/logs/.gitkeep
+/vendor/
+composer.lock
